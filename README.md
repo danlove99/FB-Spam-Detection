@@ -5,8 +5,8 @@ Tired of getting spam on facebook?
 This Python3 program will automatically respond to messages detected as spam with 'Go away spammer!'
 
 all you have to do to run this is:
-
-`git clone https://github.com/danlove99/FB-Spam-Detection`
-`cd FB-Spam-Detection`
-`pip install -r requirements.txt`
-`python start.py`
+<br/>
+`git clone https://github.com/danlove99/FB-Spam-Detection`<br/>
+`cd FB-Spam-Detection`<br/>
+`pip install -r requirements.txt`<br/>
+`python start.py`<br/>
